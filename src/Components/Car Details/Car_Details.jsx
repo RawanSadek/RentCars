@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import detailsStyles from './carDetails.module.css'
-import audi1 from '../../assets/Images/landing-page/sec-5/audi1.png'
+import audi1 from '../../assets/Images/landing-page/sec-5/Audi1.png'
 
 
 export default function Car_Details() {
