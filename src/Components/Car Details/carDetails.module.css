@@ -1,0 +1,15 @@
+.whyChooseUs{
+    background-image: url(../../assets/Images/landing-page/sec-5/Vector.png);
+    /* background-size: 60% 125%; */
+    background-repeat: no-repeat;
+    background-position: 20px -90px;
+    height: fit-content;
+}
+
+.dis_btn{
+    background-color: rgb(200, 206, 220);
+}
+
+.audi1{
+    width: 85%;
+}
