@@ -431,7 +431,7 @@ export default function Home() {
                         </div>
 
                         <div className="carousel-item" data-bs-interval="2000">
-                            <div className="row justify-content-center">
+                            <div className="row justify-content-evenly">
                                 <div className='col-5'>
                                     <div className="card mb-3">
                                         <div className="row g-0">
@@ -472,7 +472,7 @@ export default function Home() {
                         </div>
 
                         <div className="carousel-item" data-bs-interval="2000">
-                            <div className="row justify-content-center">
+                            <div className="row justify-content-evenly">
                                 <div className='col-5'>
                                     <div className="card mb-3">
                                         <div className="row g-0">
